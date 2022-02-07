@@ -3,7 +3,7 @@ const Ejercicio1 = [
     3, 100, 85, 64, 46, 39, 40, 30, 20, 24, 25, 6, 10, 54, 82, 71, 67, 77, 17, 29,
     19, 88, 456, 13, 23, 24,
 ];
-
+               
 for (var i = 0 ; i < Ejercicio1.length; i++){
     if (Ejercicio1[i]%2==1){
         console.log(`El número ${Ejercicio1[i]} es primo`);
